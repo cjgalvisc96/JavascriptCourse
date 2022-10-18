@@ -1,0 +1,3 @@
+(()=>{
+    const batman: string = "Batman";
+})()
