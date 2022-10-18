@@ -1,4 +1,5 @@
 import './style.css'
+import "./solid/dependecy-injector/05-dependency-a";
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
